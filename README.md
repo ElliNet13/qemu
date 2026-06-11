@@ -41,9 +41,7 @@ in the source tree, and is built by
 
 ## Building
 
-QEMU is multi-platform software intended to be buildable on all modern
-Linux platforms, OS-X, Win32 (via the Mingw64 toolchain) and a variety
-of other UNIX targets. The simple steps to build QEMU are:
+This version of QEMU is only ment to be built on Linux, other operating systems may work but are untested. Here are the steps to build QEMU:
 
 ``` shell
 mkdir build
